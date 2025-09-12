@@ -18,11 +18,16 @@ Wanting to create something that was both fun to develop and interact with while
 
 Once again taking inspiration from Lab 3, we choose to keep the semi top-down view. Finding and designing all elements from scratch, we took on a make it work approach meaning that many assets remain as placeholders (eg the player is a capsule and the obstacles are cubes). We found suitable assets for the bugs and flowers from the Unity Asset Store.
 
-### Mechanics
-
-The player moves around using WASD and aims with the mouse, shooting with left click. Aim is placed on a plane to ensure that the interaction with the bugs is intuitive. The flowers and obstacles spawn at the beginning of the game, and are static in the game world, where they are fitted to a navigation grid used for pathfinding. The bugs then spawn during the game at random locations with some restrictions regarding distance to flowers and not inside obstacles. Using the navigation grid and A\* pathfinding the bugs then seek out the nearest flower, eating it upon arrival. If the player is close enough to a bug they can shoot it with the bug spray, destroying it after enough hits.
 
 ## Implementation
+
+### Movement
+
+The player moves around using WASD which is and aims with the mouse, shooting with left click. Aim is placed on a plane to ensure that the interaction with the bugs is intuitive. Movement 
+
+### Mechanics
+
+The flowers and obstacles spawn at the beginning of the game, and are static in the game world, where they are fitted to a navigation grid used for pathfinding. The bugs then spawn during the game at random locations with some restrictions regarding distance to flowers and not inside obstacles. Using the navigation grid and A\* pathfinding the bugs then seek out the nearest flower, eating it upon arrival. If the player is close enough to a bug they can shoot it with the bug spray, destroying it after enough hits.
 
 ## Testing
 
