@@ -29,4 +29,4 @@ LÄGG IN BILD PÅ 2D --> 3D HÄR!
 
 ## Thursday 10/10
 ### Goals of today
-Frida will research visual representation
+Frida will research visual representation of health bars and start setting up a system for that. If time allows, Frida will also 
