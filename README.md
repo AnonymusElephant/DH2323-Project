@@ -66,4 +66,4 @@ A build of the game can be found in the [Project Build](ProjectBuild.zip) zip fi
 
 ## Documentation
 
-The whole developing process is documented in our [project blog](Blog.md). A [project rapport](rapport.pdf) is also available, formally summarizing the project, reflecting on learning outcomes and contributions.
+The whole developing process is documented in our [project blog](Blog.md). A [project report](report.pdf) is also available, formally summarizing the project, reflecting on learning outcomes and contributions.
