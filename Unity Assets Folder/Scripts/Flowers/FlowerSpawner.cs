@@ -11,7 +11,7 @@ public class FlowerSpawner : MonoBehaviour
     public GridManager gridManager; // Reference to the GridManager
 
     [Header("Spawning Configuration")]
-    public int flowerCount = 10; // Number of flowers to spawn  
+    public int flowerCount = 10; // Number of flowers to spawn
     public float minimumDistance = 5f; // Minimum distance between flowers
     public bool hasSpawnedFlowers = false; // Flag to check if flowers have been spawned
     
